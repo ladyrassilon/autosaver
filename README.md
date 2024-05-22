@@ -8,6 +8,10 @@ Takes a list of recomended savings from a trusted source, and then automatically
 
 I was held up with automating the savings gathering, I've found a solution but its not ideal, but will keep updating the savings as often as possible, and they're saved in the potential savings directory.
 
+## Notebooks
+
+- [Update Lists](./update-lists-with-private-api.ipynb) This updates the json/text files as needed, using instagram private api.
+
 ## Why I'm doing this
 
 Caelan Conrad suggested that this might be something important to help out with

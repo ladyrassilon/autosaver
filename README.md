@@ -57,15 +57,37 @@ Once you see output like this
 [I 2024-05-22 17:34:03.247 ServerApp]     http://127.0.0.1:8888/tree?token=<a-mysterious-token>
 [I 2024-05-22 17:34:03.247 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 ```
-A browser should open.
+A browser should open to the jupyterhub home
 
+![Jupyterhub home with an arrow pointing to the get the savings notebook](docs/images/jupyter-home.png)
 
+Double click on the get-those-savings.ipynb and the notebook will open
+
+![Open notebook with an arrow pointing to the run cell command](docs/images/first-notebook-view.png)
+
+You need to step through the cells (each box is a notebook cell).
+
+You can either click on the run cell button, or press <kbd>Shift</kbd> + <kbd>Enter</kbd>
+
+Do this for each of the first three cells.
+
+Then a firefox browser will open on instagram, login before continuing.
+
+Then run the next 4 cells until you get to the big cell.
+
+![The big cell with the magic](docs/images/notebook-big-cell.png)
+
+Run the cell, and wait. It will take quite a while because instagram doesn't like you applying too many savings too quickly, so it waits 30-60 seconds before applying the next, and there's about 850 savings to apply, so if you've not got any savings applied, it'll take about 10 hours. There's no reason why you can't use your computer, but just make sure you don't interfere with that instance of firefox.
+
+However if it all goes wrong, you can just restart the process and it'll only apply savings you haven't already got applied.
+
+If there are any problems, it'll list those ones it had to skip, you can just re-run that cell by clicking on it and running again. It'll only apply the missing savings.
 
 ## Sources
 
 The savings lists are the two backup savings accounts after something unusual happened to the main savings account.
 
-## Notebooks
+## Other Notebooks
 
 - [Update Lists](./update-lists-with-private-api.ipynb) This updates the json/text files as needed, using instagram private api[^3]. 
 

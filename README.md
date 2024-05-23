@@ -83,9 +83,20 @@ However if it all goes wrong, you can just restart the process and it'll only ap
 
 If there are any problems, it'll list those ones it had to skip, you can just re-run that cell by clicking on it and running again. It'll only apply the missing savings.
 
+## Issues
+
+Please add any issues you have to [github issues](https://github.com/ladyrassilon/autosaver/issues) and I'll try to get them 
+
 ## Sources
 
 The savings lists are the two backup savings accounts after something unusual happened to the main savings account.
+
+I will try to update the lists of savings as much as possible, and you can pull down the latest versions of the lists.
+
+```bash
+cd autosaver
+git pull
+```
 
 ## Other Notebooks
 

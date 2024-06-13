@@ -1,6 +1,8 @@
 _schwim_
 adamsandler
-adic1986
+airbnb
+airbnbexperiences
+airbnbkr
 alex_brovarnik
 alexander_maistern
 amihorowitz
@@ -24,6 +26,7 @@ balmain
 bathandbodyworks
 bbcnews
 bbcnewsuk
+beautybakeriemakeup
 benefitcanada
 benefitcosmetics
 benefitcosmeticsuk
@@ -40,6 +43,9 @@ bobbibrownturkiye
 bobbibrownuk
 bolsonarosp
 bookingcom
+bookingcom_br
+bookingcom_india
+bookingcomteam
 bradfalchuk
 brettgelman
 bring.shlomo.home
@@ -60,6 +66,8 @@ bymoalem
 canadianforces
 carlosbolsonaro
 carolinevreeland
+celine
+celinedion
 cerave
 cerave_aunz
 cerave_maroc
@@ -118,6 +126,8 @@ djkhaled
 dominos
 donatella_versace
 doritos
+dove
+doveindiachannel
 dovforman
 drjart
 drjart_kr
@@ -136,6 +146,8 @@ elongold
 emilysavesamerica
 esteelauder
 eurovision
+fanta
+fanta_tr
 farmacybeauty
 fdionline
 fentybeauty
@@ -169,6 +181,7 @@ garnierpolska
 garnierportugal
 garnierturkiye
 garnieruk
+gatorade
 gerardbutler
 ginnifergoodwin
 girlwithnojob
@@ -224,6 +237,8 @@ justintimberlake
 kai_the_diplodog
 katehudson
 katyperry
+kfc_israel
+kfcturkiye
 kidnappedfromisrael
 kiehls
 kiehlsisrael
@@ -294,6 +309,10 @@ morphebrushes
 muradskincare
 nba
 neilhimself
+nesquik_turkiye
+nestle
+nestle_br
+nestle_icecream_israel
 neymarjr
 noahschnapp
 noatishby
@@ -306,6 +325,7 @@ omricasspi18
 onesize
 oreo
 parishilton
+path.social_
 patrickstarrr
 patrickta
 patricktabeauty
@@ -345,6 +365,8 @@ shoahremembrance
 shoesoffpod
 shuapeck
 sivanskitchen
+snickers
+snickers.nederland
 soldiers.save.lives
 sosucosmetics
 spotify
@@ -381,6 +403,7 @@ toymane
 travisscott
 troyosterberg
 tsahal_rus
+tyrabanks
 ukraine.ua
 urbandecaycosmetics
 usairforce
